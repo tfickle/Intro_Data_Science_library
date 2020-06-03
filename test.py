@@ -3,5 +3,5 @@ def hello():
   
   
 def butters(number):
-  for cat in number:
-    print("meep")
+  for each_cat in range(number):
+      print("meep")
